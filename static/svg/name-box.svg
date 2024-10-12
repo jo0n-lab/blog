@@ -1,0 +1,76 @@
+<svg width="3112" height="775" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+  <style type="text/css">
+    @font-face {
+      font-family: 'Pretendard';
+      src: url('../static/fonts/Pretendard-Regular.woff2') format('opentype');
+      font-weight: 700;
+      font-style: normal;
+    }
+  </style>
+  <g transform="translate(-375 -265)">
+    <g>
+      <text
+        fill="#0432FF"
+        fill-opacity="1"
+        font-family="Pretendard"
+        font-style="normal"
+        font-variant="normal"
+        font-weight="700"
+        font-stretch="normal"
+        font-size="367"
+        text-anchor="start"
+        direction="ltr"
+        writing-mode="lr-tb"
+        unicode-bidi="normal"
+        text-decoration="none"
+        transform="matrix(1 0 0 1 624.724 728)"
+      >
+        WonJoon
+      </text>
+      <text
+        fill="#0432FF"
+        fill-opacity="1"
+        font-family="Pretendard"
+        font-style="normal"
+        font-variant="normal"
+        font-weight="700"
+        font-stretch="normal"
+        font-size="367"
+        text-anchor="start"
+        direction="ltr"
+        writing-mode="lr-tb"
+        unicode-bidi="normal"
+        text-decoration="none"
+        transform="matrix(1 0 0 1 2364.67 728)"
+      >
+        Choi
+      </text>
+      <rect
+        x="384.5"
+        y="279.5"
+        width="2921"
+        height="611"
+        stroke="#0432FF"
+        stroke-width="9.16667"
+        stroke-linecap="butt"
+        stroke-linejoin="miter"
+        stroke-miterlimit="8"
+        stroke-opacity="1"
+        fill="none"
+      />
+      <rect
+        x="554"
+        y="375"
+        width="2921"
+        height="611"
+        stroke="#0432FF"
+        stroke-width="18.3333"
+        stroke-linecap="butt"
+        stroke-linejoin="miter"
+        stroke-miterlimit="8"
+        stroke-opacity="1"
+        fill="none"
+      />
+    </g>
+  </g>
+</svg>
