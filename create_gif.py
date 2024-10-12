@@ -17,6 +17,6 @@ images = [Image.open(img) for img in image_files]
 
 # GIF 저장 (첫 번째 이미지를 기반으로 나머지 이미지를 추가)
 gif_path = './static/images/animated_bar_chart.gif'
-images[0].save(gif_path, save_all=True, append_images=images[1:], duration=1, loop=0)
+images[0].save(gif_path, save_all=True, append_images=images[1:], duration=10, loop=0)
 
 print(f"GIF 생성 완료: {gif_path}")
