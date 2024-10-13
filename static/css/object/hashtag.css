@@ -1,0 +1,21 @@
+.hashtag {
+    font-size: 2.7vw;
+    /* font-family: 'DejaVuSansMono', sans-serif; */
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    color: rgba(0, 0, 255, 0.9);
+}
+
+.hashtag:hover {
+    text-decoration: underline; /*밑줄 추가 */
+}
+
+/* 마우스 포인터가 올라갔을 때 회전 효과 */
+.hashtag span {
+    display: inline-block;
+    transition: transform 0.3s ease; /* 부드러운 회전 효과 */
+}
+
+.hashtag:hover span {
+    transform: rotate(90deg); /* 90도 회전 */
+}

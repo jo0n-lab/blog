@@ -1,0 +1,27 @@
+/* text-box.css */
+
+/* 텍스트 상자 기본 스타일 */
+.text-box {
+    display: inline-block;    /* 상자를 내용에 맞게 자동 크기 조정 */
+    padding: 5px;            /* 상자 내부 여백 */
+    border-style: solid;      /* 테두리 스타일 */
+    border-width: 2px;        /* 기본 테두리 두께 */
+    border-color: black;      /* 기본 테두리 색상 */
+    font-size: 1.2em;         /* 기본 글자 크기 */
+    text-align: center;       /* 텍스트 가운데 정렬 */
+    margin: 10px;             /* 상자 외부 여백 */
+}
+
+/* 테두리 두께 설정을 위한 클래스 */
+.text-box.border-thick {
+    border-width: 5px;        /* 테두리 두껍게 */
+}
+
+/* 테두리 색상 설정을 위한 클래스 */
+.text-box.border-blue {
+    border-color: blue;       /* 테두리 파란색 */
+}
+
+.text-box.border-red {
+    border-color: red;        /* 테두리 빨간색 */
+}
