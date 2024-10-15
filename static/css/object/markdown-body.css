@@ -1,0 +1,42 @@
+/* 마크다운 콘텐츠를 스타일링할 클래스 */
+.markdown-body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.markdown-body h1 {
+    font-size: 2em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.3em;
+}
+
+.markdown-body h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    border-bottom: 1px solid #eee;
+}
+
+.markdown-body p {
+    margin: 1em 0;
+}
+
+.markdown-body ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+.markdown-body pre {
+    background-color: #f6f8fa;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.markdown-body code {
+    background-color: #f6f8fa;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
